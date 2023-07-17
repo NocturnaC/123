@@ -23,5 +23,11 @@
         "status": "COMING SOON",
         "version": "0.0.0",
         "case": 3
+    },
+    {
+        "name": "Sovereign",
+        "status": "COMING SOON",
+        "version": "0.0.0",
+        "case": 4
     }
 ]
