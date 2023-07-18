@@ -7,6 +7,12 @@
         "link": "https://cdn.discordapp.com/attachments/1124339826284576892/1126476091331190876/d3d10.dll"
     },
     {
+        "name": "FiveM Cleaner",
+        "status": "UNDETECTED",
+        "version": "1.0.2",
+        "case": 1
+    },
+    {
         "name": "Spoof for PC Check",
         "status": "MAINTENANCE",
         "version": "1.0.0",
