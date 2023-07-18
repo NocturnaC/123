@@ -31,15 +31,21 @@
         "case": 4
     },
     {
+        "name": "Fortnite Spoofer [DON'T USE]",
+        "status": "UNDETECTED",
+        "version": "1.0.0",
+        "case": 5
+    },
+    {
         "name": "Sovereign",
         "status": "COMING SOON",
         "version": "0.0.0",
-        "case": 5
+        "case": 6
     },
     {
         "name": "Virtue",
         "status": "COMING SOON",
         "version": "0.0.0",
-        "case": 6
+        "case": 7
     }
 ]
