@@ -29,5 +29,11 @@
         "status": "COMING SOON",
         "version": "0.0.0",
         "case": 4
+    },
+    {
+        "name": "Virtue",
+        "status": "COMING SOON",
+        "version": "0.0.0",
+        "case": 5
     }
 ]
