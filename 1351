@@ -25,15 +25,21 @@
         "case": 3
     },
     {
-        "name": "Sovereign",
+        "name": "Fortnite",
         "status": "COMING SOON",
         "version": "0.0.0",
         "case": 4
+    }
+    {
+        "name": "Sovereign",
+        "status": "COMING SOON",
+        "version": "0.0.0",
+        "case": 5
     },
     {
         "name": "Virtue",
         "status": "COMING SOON",
         "version": "0.0.0",
-        "case": 5
+        "case": 6
     }
 ]
