@@ -1,1 +1,15 @@
-+^J];^E]X]Y\A\WW_YR
+[
+    {
+        "name": "Fortnite",
+        "status": "UNDETECTED",
+        "version": "1.0.9",
+        "case": 0,
+        "link": ""
+    },
+    {
+        "name": "Spoofer",
+        "status": "MAINTENANCE",
+        "version": "1.0.0",
+        "case": 1
+    }
+]
