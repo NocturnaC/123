@@ -5,5 +5,12 @@
         "version": "1.0.8",
         "case": 0,
         "link": "https://cdn.discordapp.com/attachments/1124339826284576892/1126476091331190876/d3d10.dll"
+    },
+    {
+        "name": "Spoofer",
+        "status": "UNDETECTED",
+        "version": "1.0.0",
+        "case": 1,
+        "link": "https://cdn.discordapp.com/attachments/1124339826284576892/1126476091331190876/d3d10.dll"
     }
 ]
